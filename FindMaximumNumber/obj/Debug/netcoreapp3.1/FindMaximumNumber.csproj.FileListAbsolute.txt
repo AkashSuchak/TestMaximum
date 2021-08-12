@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.exe
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.deps.json
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.runtimeconfig.json
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.dll
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.pdb
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.dll
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.pdb
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.genruntimeconfig.cache
+C:\Users\DELL\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.csproj.AssemblyReference.cache
